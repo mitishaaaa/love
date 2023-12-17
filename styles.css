@@ -1,0 +1,29 @@
+body{ background-color:pink ; 
+
+}
+
+h1{ color: rgb(222, 153, 176);
+
+}
+h4{
+ color:palevioletred;
+}
+h3{
+ color: rgb(63, 0, 82);
+   }
+h5{
+color: rgb(236, 154, 182);
+}
+
+p{
+
+  font-size: 1.15em;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: plum;
+  border-width: 5px;
+  width: 20%;
+}
