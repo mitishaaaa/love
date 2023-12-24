@@ -1,8 +1,11 @@
-body{ background-color:rgb(219, 207, 185) ; 
+body{ background-color:rgb(255, 230, 184) ; 
 
 }
 
 h1{ color: #6c31b8;
+
+}
+h2{ color:rgb(184, 59, 170);
 
 }
 h4{
@@ -15,13 +18,20 @@ h5{
 color: rgb(236, 154, 182);
 }
 
-ul li{
- font-size:20px;
-}
 p{
 
   font-size: 1.15em;
 }
+
+ul li{
+  font-size:20px;
+ }
+
+
+.lp-pom-text ul, li {
+color:rgb(177, 52, 104)
+}
+
 
 hr {
   border-style: none;
