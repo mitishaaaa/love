@@ -1,8 +1,11 @@
+
 body{
 
- background: linear-gradient( rgb(254, 219, 224),  rgb(176, 224, 246), rgb(242, 242, 187), rgb(236, 179, 255) );
-    background-size: 100% 100%;
+ background: linear-gradient( 120deg, rgb(253, 236, 238), rgb(254, 254, 241), rgb(208, 225, 234),  rgb(246, 220, 255) );
+    background-size: 300% 300%;
+    animation: color 35s ease-in-out ;
 }
+
 
 @keyframes color{
     0%
