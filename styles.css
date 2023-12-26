@@ -1,6 +1,6 @@
 body{
 
- background: linear-gradient(120deg, rgb(254, 219, 224), rgb(245, 245, 143), rgb(176, 224, 246), rgb(245, 245, 143) );
+ background: linear-gradient(120deg, rgb(254, 219, 224),  rgb(176, 224, 246), rgb(245, 245, 143),  rgb(236, 179, 255) );
     background-size: 300% 300%;
     animation: color 15s ease-in-out infinite;
 }
