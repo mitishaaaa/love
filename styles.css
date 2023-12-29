@@ -1,31 +1,29 @@
-
 body {
   margin: 0;
   padding: 0;
-  background: #000000;
+  background: #0a0a0b;
  
 }
-
-
 
 h1{ color: #6c31b8;
 
 }
-h2{ color:rgb(184, 59, 170);
+h2{ color:rgb(154, 74, 137);
 
 }
 h4{
  color:palevioletred;
 }
 h3{
- color: rgb(63, 0, 82);
+ color: rgb(111, 78, 106);
    }
 h5{
 color: rgb(236, 154, 182);
-}
+} 
 
 p{
-
+  font-family:cursive;
+ color: rgb(178, 145, 178);
   font-size: 1.15em;
 }
 
@@ -37,7 +35,7 @@ ul li{
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: plum;
+    border-color: rgb(63, 10, 63);
     border-width: 5px;
     width: 20%;
   }
